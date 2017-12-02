@@ -1,3 +1,3 @@
  var num = 50
- var truth  = "Hello Flatter Earch";
+ var truth  = "Hello Cats";
  var str = "Hi,there";
